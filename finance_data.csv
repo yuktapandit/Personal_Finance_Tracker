@@ -1,0 +1,66 @@
+date,amount,category,description
+20-07-2024,30000.0,Income,Salary
+07-11-2024,123.0,Income,Bapat's tiffin
+07-11-2024,59.0,Income,Radhika's Tiffin
+07-11-2024,44.0,Expense,Lunch box
+03-02-2023,56.0,Income,Chutney
+07-11-2024,45.0,Expense,Dahi
+07-11-2024,54.0,Income,tiffin
+07-11-2024,1.0,Expense,hii
+10-11-2024,500.0,Expense,Grocery
+01-08-2024,100.00,Expense,Lunch expenses at work
+02-08-2024,50.00,Expense,Bus fare for commuting
+03-08-2024,200.00,Expense,Weekly grocery shopping
+04-08-2024,300.00,Expense,Monthly rent payment
+05-08-2024,500.00,Income,Freelance project payment
+06-08-2024,20.00,Expense,Coffee at cafe
+07-08-2024,120.00,Expense,Electricity bill
+08-08-2024,1500.00,Income,Monthly salary
+09-08-2024,60.00,Expense,Dinner at restaurant
+10-08-2024,100.00,Expense,Vegetables and fruits
+11-08-2024,200.00,Expense,Train ticket for trip
+12-08-2024,80.00,Expense,Family dinner expenses
+13-08-2024,250.00,Income,Dividend from investments
+14-08-2024,50.00,Expense,Snacks and drinks
+15-08-2024,200.00,Expense,Water bill payment
+16-08-2024,30.00,Expense,Gasoline for vehicle
+17-08-2024,40.00,Expense,Lunch at food court
+18-08-2024,1000.00,Income,Bonus from work
+19-08-2024,70.00,Expense,Online subscription
+20-08-2024,250.00,Expense,Monthly groceries
+21-08-2024,40.00,Expense,Office lunch
+22-08-2024,10.00,Expense,Parking fee
+23-08-2024,150.00,Expense,Internet bill
+24-08-2024,500.00,Income,Part-time teaching earnings
+25-08-2024,35.00,Expense,Book purchase
+26-08-2024,60.00,Expense,Bus fare for trip
+27-08-2024,75.00,Expense,Family dinner at home
+28-08-2024,120.00,Expense,Weekly shopping
+29-08-2024,100.00,Expense,Gas bill
+30-08-2024,200.00,Expense,Celebration dinner
+01-09-2024,150.00,Expense,Car maintenance
+02-09-2024,30.00,Expense,Lunch at office
+03-09-2024,50.00,Expense,Vegetables
+04-09-2024,100.00,Expense,Concert event
+05-09-2024,3000.00,Income,Project completion payment
+06-09-2024,10.00,Expense,Metro fare
+07-09-2024,180.00,Expense,Monthly internet bill
+08-09-2024,20.00,Expense,Tea and snacks
+09-09-2024,30.00,Expense,Taxi fare
+10-09-2024,300.00,Expense,Apartment rent payment
+11-09-2024,60.00,Expense,Dinner at home
+01-10-2024,75.00,Expense,Groceries for week
+05-10-2024,50.00,Expense,Music streaming subscription
+10-10-2024,100.00,Expense,Electricity bill
+15-10-2024,200.00,Expense,Annual vehicle service
+20-10-2024,120.00,Expense,Birthday celebration dinner
+25-10-2024,300.00,Expense,Monthly groceries
+01-11-2024,2000.00,Income,Freelance web development
+05-11-2024,200.00,Expense,Gas bill
+09-11-2024,500.00,Expense,Monthly rent payment
+09-11-2024,54.0,Expense,Ghau
+10-12-2024,60.0,Expense,travel
+10-12-2024,53.0,Expense,food
+06-12-2024,34.0,Expense,food
+03-12-2024,56.0,Income,tiffin service
+10-12-2024,33.0,Income,tiffin service
